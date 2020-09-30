@@ -1,4 +1,4 @@
-# Website Down Notifier on Slack
+# Website Down Notifier On Slack
 
 
 <img src="https://raw.githubusercontent.com/AndreiD/SlackUptimeMonitor/master/slackmonitor.JPG" alt="slack website up down notifier uptime ping"/>
@@ -30,7 +30,7 @@ URLS_TO_CHECK = ["http://facebook.com",
 #### You have to have a token so you can send messages to a slack channel! Get one here
 https://api.slack.com/docs/oauth-test-tokens
 
-You need then to export it as an environmental variable or hardcoded
+You need to export it as an environmental variable or hardcoded
 
 ~~~~
 export SLACK_TOKEN = 'your_token_here'
